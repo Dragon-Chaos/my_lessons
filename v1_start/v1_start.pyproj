@@ -5,7 +5,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>9ddfc543-2b31-4871-9dff-608275c6e653</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>book.py</StartupFile>
+    <StartupFile>fibonachi.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -26,6 +26,9 @@
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="book.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="fibonachi.py">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="function_big.py">
