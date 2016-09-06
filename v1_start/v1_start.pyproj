@@ -5,7 +5,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>9ddfc543-2b31-4871-9dff-608275c6e653</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>Rang2_obj.py</StartupFile>
+    <StartupFile>Rang2_Obj_people.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -57,6 +57,9 @@
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="Rang2_obj.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Rang2_Obj_people.py">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="spisok.py">
